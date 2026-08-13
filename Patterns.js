@@ -91,3 +91,8 @@ console.log("=================================================================")
 for(let i = 0; i < n; i++){
     console.log("  ".repeat(i) + "* ".repeat((2 * n) - ((i + 1) * 2) + 1));
 }
+
+//11.
+for(let i = 0; i < n; i++){
+    cosnole.log()
+}

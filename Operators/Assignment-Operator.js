@@ -1,0 +1,19 @@
+let x = 10;   // Simple assignment (=)
+
+x += 5;       // Same as x = x + 5
+console.log(x); // 15
+
+x -= 3;       // Same as x = x - 3
+console.log(x); // 12
+
+x *= 2;       // Same as x = x * 2
+console.log(x); // 24
+
+x /= 4;       // Same as x = x / 4
+console.log(x); // 6
+
+x %= 4;       // Same as x = x % 4
+console.log(x); // 2
+
+x **= 3;      // Same as x = x ** 3
+console.log(x); // 8
